@@ -1,6 +1,5 @@
 {
   "name": "gatsby-theme-nice-blog",
-  "private": true,
   "description": "A nice starter blog post boilerplate template built using Gatsby",
   "version": "0.1.0",
   "author": "Abhay Nikam <nikma.abhay1@gmail.com>",
