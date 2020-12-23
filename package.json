@@ -1,7 +1,7 @@
 {
   "name": "gatsby-theme-nice-blog",
   "description": "A nice starter blog post boilerplate template built using Gatsby",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "author": "Abhay Nikam <nikma.abhay1@gmail.com>",
   "bugs": {
     "url": "https://github.com/abhaynikam/gatsby-nice-blog/issues"
